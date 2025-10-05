@@ -1,3 +1,1 @@
 ## rsschoolCV
-
-### Name: Pavel
